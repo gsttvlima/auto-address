@@ -6,6 +6,8 @@
 * Composer
 * PSR-4
 * PHPUnit
+* Javascript
+* CSS
 * jQuery
 * Via Cep API
 
