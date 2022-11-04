@@ -1,0 +1,38 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(236, 236, 236);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 0.8em;
+    color: rgb(46, 46, 46);
+}
+
+input{
+    width: 100%;
+    padding: 5px;
+    border: solid 1px rgb(209, 209, 209);
+    border-radius: 5px;
+
+}
+
+input:active, input:focus{
+    outline: none;
+    border: solid 1px rgb(175, 175, 175);
+}
+
+.box{
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    width: 20rem;
+}
+
+.mb{
+    margin-bottom: 10px;
+}
